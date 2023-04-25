@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BsmQwerty
+- 👀 I’m interested in blockchain, python and finance world.
+- 🌱 I’m currently learning Haskell
+- 📫 How to reach me bartmacbusiness@gmail.com
